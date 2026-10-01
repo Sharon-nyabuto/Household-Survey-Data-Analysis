@@ -2,7 +2,7 @@
 
 An end-to-end household survey project examining **socioeconomic wellbeing and multidimensional vulnerability across households in Kenya**.
 
-The analysis uses **9,400+ cleaned household records across all 47 counties**, covering household demographics, livelihoods and economic wellbeing, education, health, WASH, food security, financial inclusion, and other indicators of vulnerability.
+The analysis uses **9,400+ cleaned household records across 12 SELECT counties**, covering household demographics, livelihoods and economic wellbeing, education, health, WASH, food security, financial inclusion, and other indicators of vulnerability.
 
 ## Research Questions
 
